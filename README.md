@@ -1,9 +1,9 @@
 # DevNet-Docker101
 A guide for anyone to start their own Docker tutorial
 
-Requirements:
-Google Cloud [Account]
-Personal/work computer
+#### Requirements:
+* Google Cloud [Account]
+* Personal/work computer
 
 # THIS DOCUMENT IS CURRENTLY A WORK IN PROGRESS
 ### Warning: This document has high entropy, last valid test TBD
