@@ -1,4 +1,4 @@
-# DevNet-Docker101
+# Docker101
 A guide for anyone to start their own Docker tutorial
 
 #### Requirements:
@@ -22,7 +22,8 @@ A guide for anyone to start their own Docker tutorial
   * Click `Create` at the bottom of the page
     * You will land on the `VM Instances` page
   * Select `Connect -> Open in Browser Window` to open SSH session
-3. Copy down the `External IP` field!
+3. Copy down the `External IP` field
+  * Note: This IP will likely change when instance is powered off/on
   
 ## Install [Docker] CE
 1. Uninstall old versions
