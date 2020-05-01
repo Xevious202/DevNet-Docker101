@@ -42,7 +42,7 @@ $ sudo apt-get install \
   * `curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -`
 5. Verify key fingerprint [9DC8 5822 9FC7 DD38 854A E2D8 8D81 803C 0EBF CD88]
   * `$ sudo apt-key fingerprint 0EBFCD88`
-6. Perform architecture specific install (arm64 below, others in source document, link in docker header)
+6. Perform architecture specific install (x86-64 below, others in source document, link in docker header)
   * **NOTE**: 'bionic' is a temporary fix until 20.04 is supported by Docker, check install link before running!
 ```sh
 $ sudo add-apt-repository \
