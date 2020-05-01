@@ -2,7 +2,7 @@
 A guide for anyone to start their own Docker tutorial
 
 Requirements:
-Google Cloud [Account}
+Google Cloud [Account]
 Personal/work computer
 
 # THIS DOCUMENT IS CURRENTLY A WORK IN PROGRESS
@@ -64,7 +64,7 @@ $ sudo add-apt-repository \
   
 ## Follow the Guide
 
-[Google}: <https://cloud.google.com/
+[Account]: <https://cloud.google.com/
 
 [Docker]: <https://docs.docker.com/engine/install/ubuntu/>
 
