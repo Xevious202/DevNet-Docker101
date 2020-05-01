@@ -64,7 +64,7 @@ $ sudo add-apt-repository \
   
 ## Follow the Guide
 
-[Account]: <https://cloud.google.com/
+[Account]: <https://cloud.google.com/>
 
 [Docker]: <https://docs.docker.com/engine/install/ubuntu/>
 
